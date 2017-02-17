@@ -1,4 +1,4 @@
- 
+
 # HA-rf-switch-mercury-350.115
 My way to controll the 433mHz Mercury 350.115 switch via Home Assistant on a raspberr pi
 
@@ -11,6 +11,7 @@ For the first button I got 4543795 or in binary 10001010101010100110011 which I 
 0000000000001000111010001000100011101000111010001110100011101000111010001110100010001110111010001000111011101000000000000000000000
 
 The sequence start with 11 bits of 0.
+
 00000000000
 
 After that a 0 is sent as 0001 and a 1 as 1101
